@@ -278,13 +278,7 @@ form button {
         width: 70%;
         margin: auto;
     }
-    .flex {
-        display: flex;
-        flex-direction: row-reverse;
-    }
-    .section-create, .section-update, .maListe {
-        width: 50%;
-    }
+
     header #plus {
         margin: 20px;
     }
